@@ -1,5 +1,4 @@
-# rewear-hackathon25
-Clothing Swap Platform promoting sustainable fashion – built for Odoo Hackathon 2025
+
 Problem Statement 3:-   
 ReWear – Community Clothing Exchange 
 Overview: 
