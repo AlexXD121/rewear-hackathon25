@@ -93,3 +93,5 @@ Created during Hackathon 2025
 By: The Optimizers
 GitHub Repo: https://github.com/AlexXD121/rewear-hackathon25
 
+video link :- https://youtu.be/gua9g8OKcF8
+
